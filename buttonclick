@@ -1,0 +1,4 @@
+procedure ButtonClick;
+begin
+  MessageBox(0, 'The weather is good for World of warcraft playing today!', 'OK', MB_OK or MB_ICONINFORMATION);
+end;
